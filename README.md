@@ -9,5 +9,4 @@ cc -o main main.c
 ## Usage
 ```bash
 ./main
-
-
+```
