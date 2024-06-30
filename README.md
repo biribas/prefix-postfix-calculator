@@ -1,5 +1,5 @@
 # Prefix and Postfix Expression Calculator
-A terminal program that calculates mathematical expressions in prefix and postfix form. Made as a project for the university data structure course. 
+A terminal program that calculates mathematical expressions in prefix and postfix form. Made as a project for the university Data Structures course. 
 
 ## Build
 ```bash
